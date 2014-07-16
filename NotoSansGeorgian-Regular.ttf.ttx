@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="NotoSansGeorgian-Regular.ttf.GlyphOrder.ttx"/>
+  <head src="NotoSansGeorgian-Regular.ttf._h_e_a_d.ttx"/>
+  <hhea src="NotoSansGeorgian-Regular.ttf._h_h_e_a.ttx"/>
+  <maxp src="NotoSansGeorgian-Regular.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="NotoSansGeorgian-Regular.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="NotoSansGeorgian-Regular.ttf._h_m_t_x.ttx"/>
+  <cmap src="NotoSansGeorgian-Regular.ttf._c_m_a_p.ttx"/>
+  <fpgm src="NotoSansGeorgian-Regular.ttf._f_p_g_m.ttx"/>
+  <prep src="NotoSansGeorgian-Regular.ttf._p_r_e_p.ttx"/>
+  <cvt src="NotoSansGeorgian-Regular.ttf._c_v_t.ttx"/>
+  <loca src="NotoSansGeorgian-Regular.ttf._l_o_c_a.ttx"/>
+  <glyf src="NotoSansGeorgian-Regular.ttf._g_l_y_f.ttx"/>
+  <name src="NotoSansGeorgian-Regular.ttf._n_a_m_e.ttx"/>
+  <post src="NotoSansGeorgian-Regular.ttf._p_o_s_t.ttx"/>
+  <gasp src="NotoSansGeorgian-Regular.ttf._g_a_s_p.ttx"/>
+  <GDEF src="NotoSansGeorgian-Regular.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="NotoSansGeorgian-Regular.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="NotoSansGeorgian-Regular.ttf.G_S_U_B_.ttx"/>
+</ttFont>
